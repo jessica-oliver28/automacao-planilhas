@@ -11,8 +11,8 @@ Este script foi desenvolvido como parte do meu portfólio para a **vaga de Está
 
 **Objetivo principal:** demonstrar habilidades em automação de dados, tratamento de planilhas (CSV/Excel), lógica de filtros (status, data) e geração de relatórios com múltiplas abas – exatamente o que a vaga exige.
 
-![Terminal executando](imagens/print1.png)
-![Filtro status](imagens/print2.png)
+![Preview](imagens/print1.PNG)
+![Preview](imagens/print2.PNG)
 ---
 
 ##  Funcionalidades
