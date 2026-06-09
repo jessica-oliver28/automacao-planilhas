@@ -1,0 +1,6 @@
+numero_processo,cliente,status,data_abertura,valor
+001/2026,Empresa A,pendente,10/01/2026,17280.0
+002/2026,Empresa B,concluído,15/02/2026,2509.0
+003/2026,Empresa C,pendente,20/03/2026,876.0
+004/2026,Empresa A,concluído,05/04/2026,3470.0
+005/2026,Empresa D,pendente,12/05/2026,438.0
