@@ -34,6 +34,7 @@ Este script foi desenvolvido como parte do meu portfólio para a **vaga de Está
 ### 1. Clone o repositório
 
 git clone https://github.com/jessica-oliver28/automacao-planilhas.git
+
 cd automacao-planilhas
 
 
@@ -46,7 +47,7 @@ cd automacao-planilhas
 - Comunicação técnica: comentários em português
 - Automação de planilhas: leitura e escrita de CSV/Excel, geração de relatórios prontos
 
-  ✨ Desenvolvido com dedicação para a vaga de Estágio em TI.
+ ## ✨ Desenvolvido com dedicação para a vaga de Estágio em TI.
 
  ##  Contato
  
