@@ -47,7 +47,7 @@ cd automacao-planilhas
 - Comunicação técnica: comentários em português
 - Automação de planilhas: leitura e escrita de CSV/Excel, geração de relatórios prontos
 
- ## ✨ Desenvolvido com dedicação para a vaga de Estágio em TI.
+ ### ✨ Desenvolvido com dedicação para a vaga de Estágio em TI.
 
  ##  Contato
  
